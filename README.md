@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Osama 👋
 
-<!--
-**osama-khaleel/osama-khaleel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring Data Analyst currently building practical skills in data analytics and business intelligence.
 
-Here are some ideas to get you started:
+## Currently Learning
+- Python
+- SQL
+- Excel
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Data Analysis
+- Business Intelligence
+- Problem Solving
+- Building real-world data projects
+
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/osamakhaleel
